@@ -1,4 +1,6 @@
+## Docker
 
+This project uses the [stm32_dev_docker](https://github.com/cracked-machine/stm32_dev_docker) project to host the developnment environment. Please read the documentation for that project for more information.
 
 ## Power consumption
 
