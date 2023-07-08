@@ -1,3 +1,4 @@
 {
-    "cmake.buildDirectory": "${workspaceFolder}/sw/embedded/build"
+    "cmake.buildDirectory": "${workspaceFolder}/sw/embedded/build",
+	"cortex-debug.armToolchainPath":"/opt/arm-gnu-toolchain-12.2.rel1-x86_64-arm-none-eabi/bin"
 }
