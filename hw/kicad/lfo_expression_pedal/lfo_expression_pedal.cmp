@@ -1,0 +1,275 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun 11 Jun 2023 15:58:32 BST
+
+BeginCmp
+TimeStamp = e72c0a8b-d836-445e-833d-f8f4cc72ef65
+Path = /019d3a24-f9d6-4b51-8a5d-d7957fa99bbf
+Reference = SW5;
+ValeurCmp = SW_SPST;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 648214c4-32e0-4a89-87e9-87f1616dcee6
+Path = /c1f4b1d5-b405-4a61-945b-c43aa14558ed
+Reference = J4;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 439b4a4e-1fd9-465f-9167-588a17ac75eb
+Path = /920a6b52-bfd2-42d5-99ad-8dbb2bc8560f
+Reference = J5;
+ValeurCmp = Conn_01x04;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 1655ff6d-8b11-4bce-9775-10d6c04db3e7
+Path = /b910699f-1589-48ce-a127-add73862bc9c
+Reference = J2;
+ValeurCmp = Conn_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 70e090da-5122-42c0-a390-e4f21e0f0312
+Path = /096db0f3-3d49-4449-8add-8cd93b1c5bcc
+Reference = J6;
+ValeurCmp = Conn_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c56a9f9-4ea2-42ff-b3a8-48d501609da9
+Path = /05a933e8-9ad1-4f55-88bf-2f7e852f4163
+Reference = SW2;
+ValeurCmp = SW_SPST;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 181d4671-e956-444d-950a-faef48f8cfc6
+Path = /c510d440-ef2d-41a5-b03d-21ad1dd06e64
+Reference = SW6;
+ValeurCmp = RotaryEncoder_Switch;
+IdModule  = Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d031438-5e45-455a-8ed1-1eccd6783c00
+Path = /cf5b21db-03b2-42ce-be83-79a4136c7f6e
+Reference = SW1;
+ValeurCmp = SW_SPST;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1dc2bf99-20b2-4258-b840-40d590cdeb56
+Path = /53adeec2-519a-4205-8049-ed6239c7d4e3
+Reference = U2;
+ValeurCmp = LM1117MP-3.3;
+IdModule  = Package_TO_SOT_SMD:SOT-223-3_TabPin2;
+EndCmp
+
+BeginCmp
+TimeStamp = 24e43109-d98c-4067-a3fb-f715dabeeca2
+Path = /17626f9b-654b-490a-b1ae-3b1f49a940d7
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 375a1d50-38f7-4a03-8dcc-451929310ebb
+Path = /d07201e0-8c0b-4690-a13e-9669ee12a7fa
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ec2880e-6291-41eb-814f-4040e1009570
+Path = /06bf53b4-2893-441b-9ffa-e7919c1b129c
+Reference = SW4;
+ValeurCmp = SW_SPST;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 42c40eb4-fd0e-4113-b287-2b3681df97df
+Path = /4506140f-6bd6-48b7-aa52-72a42791379a
+Reference = SW3;
+ValeurCmp = SW_SPST;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 527b69a2-6366-4764-b17e-641567bbd609
+Path = /9aed095a-d43e-4fad-a80f-ba2d0606653d
+Reference = R3;
+ValeurCmp = DNF;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 57886a08-4d67-4235-86e5-ed6ad66859f2
+Path = /e35ee4c8-c8f2-487a-a029-d5665c002b0e
+Reference = U3;
+ValeurCmp = AS321KTR-G1;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5bafc3da-02be-4f00-afd4-86c8ec640ff9
+Path = /a2060d31-a0e4-4110-9218-f6cf5bb225c2
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 6b0b7f6b-3ee3-424b-adb1-2e3ab07da430
+Path = /82e798b9-bda9-42c1-82f8-da92f2f6a807
+Reference = TP3;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.0x1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6cad8d70-1440-44b6-9309-7f907eb3c071
+Path = /4ac3c62f-5cd7-4d7a-ab35-0c1530899cd0
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 77e89faa-b366-4e4c-8b94-0a940d63008d
+Path = /6761be02-cc45-405e-a75e-a53e5846a19f
+Reference = TP4;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.0x1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7814b9b3-8e23-4a88-9711-3fd0c189cee1
+Path = /840a3d99-2d7a-4efc-87e0-ebcea052b73e
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7baa6915-39a0-40bb-869b-20fa08112a34
+Path = /1928ed81-c3f3-4dc5-aab0-fbeef00acb38
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e0e6dde-7f45-4b8c-b079-d4bf92ca2ba9
+Path = /909a5f11-880c-412c-a9d4-a92aa72d84ea
+Reference = TP2;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.0x1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9625bb46-3208-442a-97fb-bd4f5d658cde
+Path = /c45d2c9f-02d3-43fc-b216-3311cd7eef9e
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = a4d4de90-3768-401c-9a29-db0b6bb32ca1
+Path = /352a1d78-dedc-4670-b8bd-30a95cacc9b1
+Reference = U1;
+ValeurCmp = STM32G071CBU3;
+IdModule  = Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a5f2f878-78f6-4207-96d6-bf115320ca9e
+Path = /3b03c34e-7e4f-44b1-a1d3-79a38a94bd94
+Reference = R5;
+ValeurCmp = DNF;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = ac9d3fb1-dc13-4b48-8689-814369bb89fc
+Path = /f3f2b8d7-98e5-496e-9a24-49c33bcccc57
+Reference = U4;
+ValeurCmp = AS321KTR-G1;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = bd364e23-45c8-4f16-901c-cb1617137024
+Path = /df2aec75-9f3c-4a73-bb5b-ac4a006a51f6
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = c24387f5-251f-487a-b00a-45ffcdb11089
+Path = /d24d70b3-ae82-4103-9032-2636c3f19674
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = dca6762a-dbe5-4751-8854-7e6d9cb0ab4c
+Path = /b07dad16-eb2a-4c8f-b7b4-428e99a0dc2b
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = de38c20f-7f4d-45f6-8f6b-c60dc4e09cf3
+Path = /98e54316-6576-4ebf-9802-e99cd055de0f
+Reference = R6;
+ValeurCmp = 0R;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e087e785-61b4-4b96-9437-50dd0f396c80
+Path = /ae46b287-57d3-4d96-a55d-a9489aa94f66
+Reference = R4;
+ValeurCmp = 0R;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e494a45d-495b-4914-b9e4-80259be2c475
+Path = /ed788290-37c2-485d-9b72-9eb8ac320416
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = f01c7290-bb75-4ab1-96f8-63abc2c2299b
+Path = /59d562ce-3051-4564-8d77-979b004b4e1f
+Reference = TP1;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.0x1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 340e1ffe-9aa8-4667-9824-acfdb3beab23
+Path = /28967f0a-63ad-460e-898a-1a11b97f714a
+Reference = J1;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD;
+EndCmp
+
+EndListe
