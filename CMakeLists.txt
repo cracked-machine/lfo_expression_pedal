@@ -37,7 +37,9 @@ target_sources(${BUILD_NAME} PUBLIC
     /workspaces/lfo_expression_pedal/sw/embedded/src/main.cpp
 
     /workspaces/lfo_expression_pedal/sw/embedded/src/sys/syscalls.c
+    /workspaces/lfo_expression_pedal/sw/embedded/src/sys/sysmem.c
     /workspaces/lfo_expression_pedal/sw/embedded/src/sys/system_stm32g0xx.c
+    /workspaces/lfo_expression_pedal/sw/embedded/src/stm32g0xx_it.c
     /workspaces/lfo_expression_pedal/sw/embedded/src/sys/startup_stm32g071cbux.s
 
     # SEGGER RTT used to print output in debug config only
