@@ -1,3 +1,6 @@
 [submodule ".devcontainer/stm32_dev_docker"]
 	path = .devcontainer/stm32_dev_docker
 	url = https://github.com/cracked-machine/stm32_dev_docker
+[submodule "sw/embedded/modules/embedded_utils"]
+	path = sw/embedded/modules/embedded_utils
+	url = https://github.com/cracked-machine/embedded_utils.git
