@@ -52,6 +52,8 @@ target_include_directories(${BUILD_NAME} PUBLIC
     /workspaces/lfo_expression_pedal/sw/embedded/inc/CMSIS/
 )
 
+add_subdirectory(/workspaces/lfo_expression_pedal/sw/embedded/modules/embedded_utils)
+
 # workaround for "build.elf has a LOAD segment with RWX permissions" warning
 # See https://community.st.com/s/question/0D53W00001vno1oSAA/warning-elffile-has-a-load-segment-with-rwx-permissions
 target_link_options(${BUILD_NAME} PRIVATE "LINKER:--no-warn-rwx-segments")
