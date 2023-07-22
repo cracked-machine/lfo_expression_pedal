@@ -14,3 +14,11 @@ This project uses the [stm32_dev_docker](https://github.com/cracked-machine/stm3
 |S (sleeve)|T (tip)|R (ring)|
 |-|-|-|
 |Ground|Signal|3.3V|
+
+## Changelog
+
+### PCB
+
+- REVB
+    - Add 3.3v to U1 VREF+ (Pin5).
+    - 
